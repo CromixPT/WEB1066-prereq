@@ -1,4 +1,4 @@
-# WEB1066 Pre Requisites 
+# WEB1066 Pre Requisites - My Repo
 
 1. An Email Address, try https://gmail.com
 1. Setup GitHub Account https://github.com
